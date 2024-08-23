@@ -46,7 +46,7 @@ function AtualizarPessoa() {
             navegacao('/listagem', { replace: true })
         } else {
             // exibe alerta de falha
-            alert('Erro ao atualizar informações');
+        alert('Erro ao atualizar informações');
         }
     }
 
